@@ -1,2 +1,0 @@
-webpackJsonp([1],{YcJa:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("p",[this._v("404 - Not Found")]),this._v(" "),e("span",[this._v(this._s(this.path)+" ")])])},staticRenderFns:[]},i=n("VU/8")(null,s,!1,null,null,null);e.default=i.exports}});
-//# sourceMappingURL=1.5dc4b70af392429a3981.js.map
